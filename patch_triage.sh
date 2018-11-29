@@ -1,9 +1,9 @@
 #! /bin/bash
 
-UUUPSTREAM_PATCHES="/home/ubuntu/unupstreamed_patches.txt"
-IP_KEYWORDS_CFG="/home/ubuntu/ip_keywords.cfg"
-KERNEL_SRC_DIR="/home/ubuntu/workspace/stash-repo/micr/linux-imx"
-REPORT_FILE="/home/ubuntu/upstream_report.csv"
+UUUPSTREAM_PATCHES="/home/ubuntu/test_commits.txt"
+IP_KEYWORDS_CFG="/home/ubuntu/keywords.cfg"
+KERNEL_SRC_DIR="/home/ubuntu/linux"
+REPORT_FILE="/home/ubuntu/report.csv"
 
 IP[0]=""
 KEYWORDS[0]=""
